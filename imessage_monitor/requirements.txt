@@ -1,0 +1,20 @@
+# iMessage Question Monitor - Python Dependencies
+
+# Anthropic Claude API
+anthropic>=0.18.0
+
+# Google Calendar API
+google-auth>=2.27.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.115.0
+
+# Email (built-in with Python)
+# smtplib - built-in
+# email - built-in
+
+# Database (built-in with Python)
+# sqlite3 - built-in
+
+# Other built-ins used:
+# datetime, os, re, time, logging
